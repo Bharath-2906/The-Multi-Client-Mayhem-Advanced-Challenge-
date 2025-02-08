@@ -1,0 +1,11 @@
+I am a Computer Science and Engineering graduate with a strong foundation in programming and problem-solving. My technical skills include Python, C, JavaScript, HTML, and CSS, along with experience in frameworks like Flask, React, and Angular. I am also familiar with tools such as Docker, Git, and AWS, and have worked with databases like MySQL.
+
+Beyond academics, I am passionate about data analytics and software development, constantly exploring new technologies to enhance my skills. I have earned certifications in Python Programming, Prompt Engineering for ChatGPT, and Fundamentals of Data Analytics using Python, reflecting my commitment to continuous learning.
+
+Apart from technology, I enjoy traveling, drawing, and meeting new people. My creative interests help me think innovatively and bring a fresh perspective to problem-solving. I thrive in collaborative environments and am always eager to take on new challenges that allow me to grow and contribute meaningfully.
+
+
+only technical round question like how it will be  ?
+what are all companies 
+tell correct how long does it take get placement
+
